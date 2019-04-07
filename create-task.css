@@ -1,1 +1,18 @@
+html{
+    height: 100%;
+    margin: 0;
+  }
+
+body {
+    height: 100%;
+    margin: 0;
+    background-image: url(https://gifimage.net/wp-content/uploads/2017/10/color-changing-gif-7.gif);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+canvas {
+    border: 6px solid black;
+  }
 
